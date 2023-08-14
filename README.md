@@ -1,4 +1,4 @@
-# minii_project
+hospital management_project
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
